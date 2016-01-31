@@ -11,3 +11,6 @@ Additional credits:
 * The Asylum Pro is by Steve Sullivan.
 * PICT resource 3975 (Ozma) is derived from an illustration by John R. Neill from [Ozma of Oz](https://www.gutenberg.org/files/33361/33361-h/33361-h.htm).
 * PICT resource 153 (About box) features a portion of [this Little Nemo comic](http://www.comicstriplibrary.org/display/116) by Winsor McCay.
+
+Legal
+The source for Glider PRO is released under the GNU General Public License 2 as published by the Free Software Foundation.
