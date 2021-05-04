@@ -1,5 +1,7 @@
-# glider_pro
+# Glider PRO
 Sources for the Macintosh game, Glider PRO, written by John Calhoun and published by Casady &amp; Greene Inc.
+
+![Splash screen](https://github.com/softdorothy/glider_pro/blob/master/GliderProSplash.png)
 
 Additional credits:
 * Demo House and CD Demo House are by John Calhoun and Kim Money.
